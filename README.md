@@ -142,9 +142,9 @@ PowerShell:
 
 ## 📂 Files
 
-- `flask_server.py` - Simple Flask chatbot API
-- `lora_adapter/` - The LoRA weights (~4.7MB)
-- `README.md` - You’re reading this shit.
+- `flask_example.py` - Simple Flask chatbot API
+- `llama3_lora_only/` - The LoRA weights (~4.7MB)
+- `README.md` - You’re reading this.
 
 ---
 
