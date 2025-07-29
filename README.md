@@ -151,4 +151,4 @@ PowerShell:
 ## 🧠 Credits
 
 - Base model by [TinyLlama](https://huggingface.co/TinyLlama)
-- LoRA tuning and API by YOU, the savage dev 💥
+- LoRA tuning and API by TheBatShitBananaDotNet™
